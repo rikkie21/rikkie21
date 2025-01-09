@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭Hoje estudo front-end/back-end
-- 📘 Estudando HTML, CSS, JS E PHP
+- 🔭Hoje estudo front-end/back-end/mobile
 - 📩 Contate-me no email: gabrielfreitass2001@gmail.com
 - 😉ele/dele
--->
+
